@@ -1,0 +1,39 @@
+# crete_samplesheet.py で入力するメタデータのひな型
+# ケースその３
+# 以前Genomonにかけたサンプル群
+
+[bam_import]
+oldT1.1	/path/to/oldT1.bam
+oldT1.2	/path/to/oldT1.2.bam
+oldT1.3	/path/to/oldT1.3.bam
+oldT2	/path/to/oldT2.bam
+oldT3	/path/to/oldT3.bam
+oldT4	/path/to/oldT4.bam
+oldT5	/path/to/oldT5.bam
+oldT6	/path/to/oldT6.bam
+oldT7	/path/to/oldT7.bam
+oldT8	/path/to/oldT8.bam
+oldT9	/path/to/oldT9.bam
+oldN1.1	/path/to/oldN1.1.bam
+oldN1.2	/path/to/oldN1.2.bam
+oldN1.3	/path/to/oldN1.3.bam
+oldN2	/path/to/oldN2.bam
+oldN3	/path/to/oldN3.bam
+oldN4	/path/to/oldN4.bam
+oldN5	/path/to/oldN5.bam
+oldN6	/path/to/oldN6.bam
+oldN7	/path/to/oldN7.bam
+oldN8	/path/to/oldN8.bam
+oldN9	/path/to/oldN9.bam
+
+[mutation_call]
+# tumor	paired	list
+oldT1.1	oldN1.1	li1
+oldT2	oldN2	li2
+oldT3	oldN3	li3
+oldT4	oldN4	li4
+oldT5	oldN5	li5
+oldT6	oldN6	li6
+oldT7	oldN7	li7
+oldT8	oldN8	li8
+oldT9	oldN9	li9

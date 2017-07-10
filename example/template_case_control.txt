@@ -1,0 +1,49 @@
+# crete_samplesheet.py で入力するメタデータのひな型
+# ケースその１
+# コントロールパネル用のサンプル群
+
+[bam_import]
+control1	/path/to/control1.bam
+control2	/path/to/control2.bam
+control3	/path/to/control3.bam
+control4	/path/to/control4.bam
+control5	/path/to/control5.bam
+control6	/path/to/control6.bam
+control7	/path/to/control7.bam
+control8	/path/to/control8.bam
+control9	/path/to/control9.bam
+control10	/path/to/control10.bam
+control11	/path/to/control11.bam
+control12	/path/to/control12.bam
+control13	/path/to/control13.bam
+control14	/path/to/control14.bam
+control15	/path/to/control15.bam
+control16	/path/to/control16.bam
+control17	/path/to/control17.bam
+control18	/path/to/control18.bam
+control19	/path/to/control19.bam
+control20	/path/to/control20.bam
+
+[metadata]
+# sample	paired	person	
+None	control1	control1
+None	control2	control2
+None	control3	control3
+None	control4	control4
+None	control5	control5
+None	control6	control6
+None	control7	control7
+None	control8	control8
+None	control9	control9
+None	control10	control10
+None	control11	control11
+None	control12	control12
+None	control13	control13
+None	control14	control14
+None	control15	control15
+None	control16	control16
+None	control17	control17
+None	control18	control18
+None	control19	control19
+None	control20	control20
+

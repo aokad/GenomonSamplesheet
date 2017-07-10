@@ -1,0 +1,37 @@
+# crete_samplesheet.py で入力するメタデータのひな型
+# ケースその２
+# 新しくGenomonにかけたいサンプル群
+
+[bam_tofastq]
+sampleT1	/path/to/sampleT1.bam
+sampleT2	/path/to/sampleT2.bam
+sampleT3	/path/to/sampleT3.bam
+sampleT4	/path/to/sampleT4.bam
+sampleT5	/path/to/sampleT5.bam
+sampleN1	/path/to/sampleN1.bam
+sampleN2	/path/to/sampleN2.bam
+sampleN3	/path/to/sampleN3.bam
+sampleN4	/path/to/sampleN4.bam
+sampleN5	/path/to/sampleN5.bam
+
+[fastq]
+sampleT6	/path/to/sampleT6.r1.fastq	/path/to/sampleT6.r2.fastq
+sampleT7	/path/to/sampleT7.r1.fastq	/path/to/sampleT7.r2.fastq
+sampleT8	/path/to/sampleT8.r1.fastq	/path/to/sampleT8.r2.fastq
+sampleT9	/path/to/sampleT9.r1.fastq	/path/to/sampleT9.r2.fastq
+sampleN6	/path/to/sampleN6.r1.fastq	/path/to/sampleN6.r2.fastq
+sampleN7	/path/to/sampleN7.r1.fastq	/path/to/sampleN7.r2.fastq
+sampleN8	/path/to/sampleN8.r1.fastq	/path/to/sampleN8.r2.fastq
+sampleN9	/path/to/sampleN9.r1.fastq	/path/to/sampleN9.r2.fastq
+
+[metadata]
+# sample	paired		person	
+sampleT1	sampleN1	sample1	
+sampleT2	sampleN2	sample2	
+sampleT3	sampleN3	sample3	
+sampleT4	sampleN4	sample4	
+sampleT5	sampleN5	sample5	
+sampleT6	sampleN6	sample6
+sampleT7	sampleN7	sample7
+sampleT8	sampleN8	sample8
+sampleT9	sampleN9	sample9
