@@ -109,5 +109,5 @@ python generator.py {inputs} {type} {output_file} {option}
 >                       成しない
 > -l, --large_controlpanel 大きな一つのコントロールパネルを作成する
 > -s number_of_controlpanel, --set_controlpanel_length number_of_controlpanel
-                        コントロールパネルの長さを指定する(default 20)
-```
+>                       コントロールパネルの長さを指定する(default 20)
+> ```
