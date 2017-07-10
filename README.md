@@ -1,0 +1,2 @@
+# GenomonSamplesheet
+GenomonPiplineで使用するサンプルシートを作成します
